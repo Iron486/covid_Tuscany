@@ -15,6 +15,8 @@ It might be useful to plot the data in time, working with different date formats
 
 Moreover, this dataset is very good to practice queries using `SQL` or `Pandas`.
 
+Star the repository if you found the dataset useful and inspiring.
+
 
 ### **Collection methodology**
 
