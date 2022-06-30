@@ -25,5 +25,6 @@ Furthermore, some columns were transformed from floats to integers, missing valu
 
 Click the following file [covid_data_Tuscany_cleaning.ipynb](https://github.com/Iron486/covid_Tuscany/blob/main/covid_data_Tuscany_cleaning.ipynb) to take a look at the preprocessing steps.
 
-License
+### **License**
+
 [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
